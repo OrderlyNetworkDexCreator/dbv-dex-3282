@@ -3,21 +3,21 @@
   --oui-font-size-base: 14px;
 
   /* colors */
-  --oui-color-primary: 176 132 233;
-  --oui-color-primary-light: 213 190 244;
-  --oui-color-primary-darken: 137 76 209;
+  --oui-color-primary: 0 255 200;
+  --oui-color-primary-light: 51 255 217;
+  --oui-color-primary-darken: 0 204 158;
   --oui-color-primary-contrast: 255 255 255;
 
-  --oui-color-link: 189 107 237;
-  --oui-color-link-light: 217 152 250;
+  --oui-color-link: 0 163 255;
+  --oui-color-link-light: 125 249 255;
 
   --oui-color-secondary: 255 255 255;
-  --oui-color-tertiary: 218 218 218;
-  --oui-color-quaternary: 218 218 218;
+  --oui-color-tertiary: 42 175 192;
+  --oui-color-quaternary: 174 55 25;
 
-  --oui-color-danger: 245 97 139;
-  --oui-color-danger-light: 250 167 188;
-  --oui-color-danger-darken: 237 72 122;
+  --oui-color-danger: 255 67 98;
+  --oui-color-danger-light: 255 114 140;
+  --oui-color-danger-darken: 200 40 68;
   --oui-color-danger-contrast: 255 255 255;
 
   --oui-color-success: 41 233 169;
